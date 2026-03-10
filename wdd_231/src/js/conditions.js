@@ -3,7 +3,7 @@ import "../css/comditions.css";
 import {
   getParkData,
   getParkAlerts,
-getParkVisitorCenters
+  getParkVisitorCenters
 } from "./parkService.mjs";
 import {
   activityListTemplate,
