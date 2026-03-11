@@ -1,5 +1,5 @@
 import "../css/style.css";
-import "../css/comditions.css";
+import "../css/conditions.css";
 import {
   getParkData,
   getParkAlerts,
