@@ -1,4 +1,4 @@
-import { resolve } from "path";
+import { dirname, resolve } from "path";
 import { defineConfig } from "vite";
 import { fileURLToPath } from "url";
 
